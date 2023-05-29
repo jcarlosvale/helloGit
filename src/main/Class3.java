@@ -7,5 +7,8 @@ public class Class3 {
     }
 
     private static void outroMetodo() {
+        /*
+        modificando branch-1
+         */
     }
 }
